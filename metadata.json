@@ -1,0 +1,6 @@
+{
+  "name": "Social Video Downloader",
+  "description": "موقع ويب احترافي متكامل لتحميل الفيديوهات من TikTok, Instagram Reels, YouTube Shorts, Facebook, X, Pinterest, LinkedIn, Snapchat بأعلى جودة وسرعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
